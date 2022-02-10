@@ -10,7 +10,8 @@
 • Known Programing languages: Python
 All My Codes Are Private
 
-# • 📫 How to reach me? You can contact me in my Social Accounts
+• 📫 How to reach me? You can contact me in my Social Accounts
+
 ### Social Accounts
 * <a href="https://t.me/TamimZaman" alt="TamimZaman99!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 * <a href="https://twitter.com/TamimZaman99" alt="TamimZaman99!"> <img src="https://aleen42.github.io/badges/src/twitter.svg" /> </a>
