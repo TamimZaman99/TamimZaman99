@@ -2,9 +2,9 @@
 • 👀 I’m interested in Games, Anime, Programming, Etc.
 • 🌱 I’m currently learning JavaScript
 • Known Programing languages: Python
-Note: All My Codes Are Private
+*Note:* All My Codes Are Private
 
-• 📫 How to reach me? I You Can Contact Me In Many Social Media
+• 📫 How to reach me? You can contact me in my Social Accounts
 ***Social Accounts***
 [Telegram](https://t.me/TamimZaman)
 Twitter - https://twitter.com/TamimZaman99
