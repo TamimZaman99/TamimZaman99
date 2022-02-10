@@ -1,10 +1,16 @@
-* • 👋 Hi, I’m @TamimZaman99
-• 👀 I’m interested in Games, Anime, Programming, Etc.
-• 🌱 I’m currently learning JavaScript
-• Known Programing languages: Python
-*Note:* All My Codes Are Private
+### 👋 Hi, I’m @TamimZaman99
 
-• 📫 How to reach me? You can contact me in my Social Accounts
+
+• 👀 I’m interested in Games, Anime, Programming.
+
+
+• 🌱 I’m currently learning JavaScript
+
+
+• Known Programing languages: Python
+All My Codes Are Private
+
+# • 📫 How to reach me? You can contact me in my Social Accounts
 ### Social Accounts
 * <a href="https://t.me/TamimZaman" alt="TamimZaman99!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 * <a href="https://twitter.com/TamimZaman99" alt="TamimZaman99!"> <img src="https://aleen42.github.io/badges/src/twitter.svg" /> </a>
