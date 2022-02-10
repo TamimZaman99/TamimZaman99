@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @TamimZaman99
-- 👀 I’m interested in Games, Programming, Making Friends, Etc.
-- 🌱 I’m currently learning Phython
-- 💞️ I’m looking to collaborate Something For Learning, Please Help.
-- 📫 How to reach me I You Can Contact Me In Many Method.
+• 👋 Hi, I’m @TamimZaman99
+• 👀 I’m interested in Games, Anime, Programming, Etc.
+• 🌱 I’m currently learning JavaScript
+• Known Programing languages: Python
+• 📫 How to reach me? I You Can Contact Me In Many Social Media
+
+*Social Accounts*
+Telegram - https://t.me/TamimZaman
+Twitter - https://twitter.com/TamimZaman99
+Facebook - https://facebook.com/TamimZaman333
+Discord - https://discord.com/users/776068810238984243
 
 <!---
 TamimZaman99/TamimZaman99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
