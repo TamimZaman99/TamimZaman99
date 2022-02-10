@@ -7,8 +7,8 @@
 • 📫 How to reach me? You can contact me in my Social Accounts
 ### Social Accounts
 * <a href="https://t.me/TamimZaman" alt="TamimZaman99!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-* <a href="https://twitter.com/TamimZaman99" alt="TamimZaman99!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-* [Facebook](https://facebook.com/TamimZaman333)
+* <a href="https://twitter.com/TamimZaman99" alt="TamimZaman99!"> <img src="https://aleen42.github.io/badges/src/twitter.svg" /> </a>
+* [Facebook]()
 * [Discord](https://discord.com/users/776068810238984243)
 
 <!---
