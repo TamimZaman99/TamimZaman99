@@ -4,11 +4,10 @@
 • 👀 I’m interested in Games, Anime, Programming.
 
 
-• 🌱 I’m currently learning JavaScript
-
-
 • Known Programing languages: Python
-All My Codes Are Private
+I have 106 Repository right now (All My Codes Are Private)
+
+• 🌱 I’m currently learning JavaScript
 
 • 📫 How to reach me? You can contact me in my Social Accounts
 
